@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Dack_soul/Scenes/Test_AnimContrllor.unity
+  isLoaded: 1
+  isActive: 1
